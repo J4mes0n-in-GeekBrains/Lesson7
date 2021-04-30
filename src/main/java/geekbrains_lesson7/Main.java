@@ -1,4 +1,4 @@
-package geekbrains_lesson7;
+package geekbrains_lesson_7;
 
 import java.util.Scanner;
 
