@@ -1,4 +1,4 @@
-package geekbrains_lesson7;
+package geekbrains_lesson_7;
 
 public class Cat {
     public String name;
